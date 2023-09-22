@@ -1,1 +1,1 @@
-# Estad-sticaSocio
+# Estadística_Sociología
